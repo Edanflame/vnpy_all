@@ -64,3 +64,15 @@
 [submodule "gateways/vnpy_hx"]
 	path = gateways/vnpy_hx
 	url = https://github.com/vnpy/vnpy_hx
+[submodule "gateways/vnpy_ib"]
+	path = gateways/vnpy_ib
+	url = https://github.com/vnpy/vnpy_ib
+[submodule "gateways/vnpy_tap"]
+	path = gateways/vnpy_tap
+	url = https://github.com/vnpy/vnpy_tap
+[submodule "gateways/vnpy_da"]
+	path = gateways/vnpy_da
+	url = https://github.com/vnpy/vnpy_da
+[submodule "gateways/vnpy_rpcservice"]
+	path = gateways/vnpy_rpcservice
+	url = https://github.com/vnpy/vnpy_rpcservice
