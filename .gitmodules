@@ -127,3 +127,33 @@
 [submodule "apps/vnpy_websocket"]
 	path = apps/vnpy_websocket
 	url = https://github.com/vnpy/vnpy_websocket
+[submodule "databases/vnpy_sqlite"]
+	path = databases/vnpy_sqlite
+	url = https://github.com/vnpy/vnpy_sqlite
+[submodule "databases/vnpy_mysql"]
+	path = databases/vnpy_mysql
+	url = https://github.com/vnpy/vnpy_mysql
+[submodule "databases/vnpy_posgresql"]
+	path = databases/vnpy_posgresql
+	url = https://github.com/vnpy/vnpy_postgresql
+[submodule "databases/vnpy_dolphindb"]
+	path = databases/vnpy_dolphindb
+	url = https://github.com/vnpy/vnpy_dolphindb
+[submodule "databases/vnpy_arctic"]
+	path = databases/vnpy_arctic
+	url = https://github.com/vnpy/vnpy_arctic
+[submodule "databases/vnpy_taos"]
+	path = databases/vnpy_taos
+	url = https://github.com/vnpy/vnpy_taos
+[submodule "databases/vnpy_timescaledb"]
+	path = databases/vnpy_timescaledb
+	url = https://github.com/vnpy/vnpy_timescaledb
+[submodule "databases/vnpy_mongodb"]
+	path = databases/vnpy_mongodb
+	url = https://github.com/vnpy/vnpy_mongodb
+[submodule "databases/vnpy_influxdb"]
+	path = databases/vnpy_influxdb
+	url = https://github.com/vnpy/vnpy_influxdb
+[submodule "databases/vnpy_leveldb"]
+	path = databases/vnpy_leveldb
+	url = https://github.com/vnpy/vnpy_leveldb
