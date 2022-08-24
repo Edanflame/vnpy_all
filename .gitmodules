@@ -76,3 +76,54 @@
 [submodule "gateways/vnpy_rpcservice"]
 	path = gateways/vnpy_rpcservice
 	url = https://github.com/vnpy/vnpy_rpcservice
+[submodule "apps/vnpy_ctastrategy"]
+	path = apps/vnpy_ctastrategy
+	url = https://github.com/vnpy/vnpy_ctastrategy
+[submodule "apps/vnpy_ctabacktester"]
+	path = apps/vnpy_ctabacktester
+	url = https://github.com/vnpy/vnpy_ctabacktester
+[submodule "apps/vnpy_spreadtrading"]
+	path = apps/vnpy_spreadtrading
+	url = https://github.com/vnpy/vnpy_spreadtrading
+[submodule "apps/vnpy_optionmaster"]
+	path = apps/vnpy_optionmaster
+	url = https://github.com/vnpy/vnpy_optionmaster
+[submodule "apps/vnpy_portfoliostrategy"]
+	path = apps/vnpy_portfoliostrategy
+	url = https://github.com/vnpy/vnpy_portfoliostrategy
+[submodule "apps/vnpy_algotrading"]
+	path = apps/vnpy_algotrading
+	url = https://github.com/vnpy/vnpy_algotrading
+[submodule "apps/vnpy_scripttrader"]
+	path = apps/vnpy_scripttrader
+	url = https://github.com/vnpy/vnpy_scripttrader
+[submodule "apps/vnpy_paperaccount"]
+	path = apps/vnpy_paperaccount
+	url = https://github.com/vnpy/vnpy_paperaccount
+[submodule "apps/vnpy_chartwizard"]
+	path = apps/vnpy_chartwizard
+	url = https://github.com/vnpy/vnpy_chartwizard
+[submodule "apps/vnpy_portfoliomanager"]
+	path = apps/vnpy_portfoliomanager
+	url = https://github.com/vnpy/vnpy_portfoliomanager
+[submodule "apps/vnpy_rpcservice"]
+	path = apps/vnpy_rpcservice
+	url = https://github.com/vnpy/vnpy_rpcservice
+[submodule "apps/vnpy_datamanager"]
+	path = apps/vnpy_datamanager
+	url = https://github.com/vnpy/vnpy_datamanager
+[submodule "apps/vnpy_datarecorder"]
+	path = apps/vnpy_datarecorder
+	url = https://github.com/vnpy/vnpy_datarecorder
+[submodule "apps/vnpy_excelrtd"]
+	path = apps/vnpy_excelrtd
+	url = https://github.com/vnpy/vnpy_excelrtd
+[submodule "apps/vnpy_riskmanager"]
+	path = apps/vnpy_riskmanager
+	url = https://github.com/vnpy/vnpy_riskmanager
+[submodule "apps/vnpy_rest"]
+	path = apps/vnpy_rest
+	url = https://github.com/vnpy/vnpy_rest
+[submodule "apps/vnpy_websocket"]
+	path = apps/vnpy_websocket
+	url = https://github.com/vnpy/vnpy_websocket
