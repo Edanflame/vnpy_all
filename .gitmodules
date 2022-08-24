@@ -178,3 +178,6 @@
 [submodule "datafeeds/vnpy_tqsdk"]
 	path = datafeeds/vnpy_tqsdk
 	url = https://github.com/vnpy/vnpy_tqsdk
+[submodule "apps/vnpy_webtrader"]
+	path = apps/vnpy_webtrader
+	url = https://github.com/vnpy/vnpy_webtrader
