@@ -1,3 +1,66 @@
 [submodule "vnpy"]
 	path = vnpy
 	url = https://github.com/vnpy/vnpy
+[submodule "gateways/vnpy_ctp"]
+	path = gateways/vnpy_ctp
+	url = https://github.com/vnpy/vnpy_ctp
+[submodule "gateways/vnpy_mini"]
+	path = gateways/vnpy_mini
+	url = https://github.com/vnpy/vnpy_mini
+[submodule "gateways/vnpy_sopt"]
+	path = gateways/vnpy_sopt
+	url = https://github.com/vnpy/vnpy_sopt
+[submodule "gateways/vnpy_femas"]
+	path = gateways/vnpy_femas
+	url = https://github.com/vnpy/vnpy_femas
+[submodule "gateways/vnpy_uft"]
+	path = gateways/vnpy_uft
+	url = https://github.com/vnpy/vnpy_uft
+[submodule "gateways/vnpy_esunny"]
+	path = gateways/vnpy_esunny
+	url = https://github.com/vnpy/vnpy_esunny
+[submodule "gateways/vnpy_sec"]
+	path = gateways/vnpy_sec
+	url = https://github.com/vnpy/vnpy_sec
+[submodule "gateways/vnpy_hts"]
+	path = gateways/vnpy_hts
+	url = https://github.com/vnpy/vnpy_hts
+[submodule "gateways/vnpy_nhtd"]
+	path = gateways/vnpy_nhtd
+	url = https://github.com/vnpy/vnpy_nhtd
+[submodule "gateways/vnpy_xtp"]
+	path = gateways/vnpy_xtp
+	url = https://github.com/vnpy/vnpy_xtp
+[submodule "gateways/vnpy_tora"]
+	path = gateways/vnpy_tora
+	url = https://github.com/vnpy/vnpy_tora
+[submodule "gateways/vnpy_hft"]
+	path = gateways/vnpy_hft
+	url = https://github.com/vnpy/vnpy_hft
+[submodule "gateways/vnpy_ost"]
+	path = gateways/vnpy_ost
+	url = https://github.com/vnpy/vnpy_ost
+[submodule "gateways/vnpy_sgit"]
+	path = gateways/vnpy_sgit
+	url = https://github.com/vnpy/vnpy_sgit
+[submodule "gateways/vnpy_ksgold"]
+	path = gateways/vnpy_ksgold
+	url = https://github.com/vnpy/vnpy_ksgold
+[submodule "gateways/vnpy_rohon"]
+	path = gateways/vnpy_rohon
+	url = https://github.com/vnpy/vnpy_rohon
+[submodule "gateways/vnpy_comstar"]
+	path = gateways/vnpy_comstar
+	url = https://github.com/vnpy/vnpy_comstar
+[submodule "gateways/vnpy_gm"]
+	path = gateways/vnpy_gm
+	url = https://github.com/vnpy/vnpy_gm
+[submodule "gateways/vnpy_uf"]
+	path = gateways/vnpy_uf
+	url = https://github.com/vnpy/vnpy_uf
+[submodule "gateways/vnpy_tts"]
+	path = gateways/vnpy_tts
+	url = https://github.com/vnpy/vnpy_tts
+[submodule "gateways/vnpy_hx"]
+	path = gateways/vnpy_hx
+	url = https://github.com/vnpy/vnpy_hx
