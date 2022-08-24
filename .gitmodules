@@ -157,3 +157,24 @@
 [submodule "databases/vnpy_leveldb"]
 	path = databases/vnpy_leveldb
 	url = https://github.com/vnpy/vnpy_leveldb
+[submodule "datafeeds/vnpy_rqdata"]
+	path = datafeeds/vnpy_rqdata
+	url = https://github.com/vnpy/vnpy_rqdata
+[submodule "datafeeds/vnpy_udata"]
+	path = datafeeds/vnpy_udata
+	url = https://github.com/vnpy/vnpy_udata
+[submodule "datafeeds/vnpy_tushare"]
+	path = datafeeds/vnpy_tushare
+	url = https://github.com/vnpy/vnpy_tushare
+[submodule "datafeeds/vnpy_wind"]
+	path = datafeeds/vnpy_wind
+	url = https://github.com/vnpy/vnpy_wind
+[submodule "datafeeds/vnpy_tinysoft"]
+	path = datafeeds/vnpy_tinysoft
+	url = https://github.com/vnpy/vnpy_tinysoft
+[submodule "datafeeds/vnpy_ifind"]
+	path = datafeeds/vnpy_ifind
+	url = https://github.com/vnpy/vnpy_ifind
+[submodule "datafeeds/vnpy_tqsdk"]
+	path = datafeeds/vnpy_tqsdk
+	url = https://github.com/vnpy/vnpy_tqsdk
