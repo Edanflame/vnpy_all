@@ -25,9 +25,6 @@
 [submodule "gateways/vnpy_hts"]
 	path = gateways/vnpy_hts
 	url = https://github.com/vnpy/vnpy_hts
-[submodule "gateways/vnpy_nhtd"]
-	path = gateways/vnpy_nhtd
-	url = https://github.com/vnpy/vnpy_nhtd
 [submodule "gateways/vnpy_xtp"]
 	path = gateways/vnpy_xtp
 	url = https://github.com/vnpy/vnpy_xtp
