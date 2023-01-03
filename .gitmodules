@@ -181,3 +181,6 @@
 [submodule "gateways/vnpy_jees"]
 	path = gateways/vnpy_jees
 	url = https://github.com/vnpy/vnpy_jees
+[submodule "gateways/vnpy_emt"]
+	path = gateways/vnpy_emt
+	url = https://github.com/vnpy/vnpy_emt
