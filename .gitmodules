@@ -178,3 +178,6 @@
 [submodule "apps/vnpy_webtrader"]
 	path = apps/vnpy_webtrader
 	url = https://github.com/vnpy/vnpy_webtrader
+[submodule "gateways/vnpy_jees"]
+	path = gateways/vnpy_jees
+	url = https://github.com/vnpy/vnpy_jees
